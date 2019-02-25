@@ -1,0 +1,21 @@
+.main {
+    display: block;
+    margin: 0 auto;
+    width: 1000px;
+    background-color: #cac7c7;
+}
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.col {
+    height: 100px;
+    background-color: #000;
+    width: 20%;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
