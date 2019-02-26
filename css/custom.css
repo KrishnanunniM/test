@@ -19,3 +19,12 @@
     align-items: center;
     font-size: 30px;
 }
+
+@media (max-width: 767px){
+	.row {    
+    flex-flow: column;
+}
+	.col{
+		margin-bottom: 20px;
+	} 
+}
