@@ -19,6 +19,12 @@
     align-items: center;
     font-size: 30px;
 }
+.footer{
+    background-color: coral;
+    color: #fff;
+}
+
+
 
 @media (max-width: 767px){
 	.row {    
